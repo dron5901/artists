@@ -1,2 +1,0 @@
-# artists
-Created with CodeSandbox
